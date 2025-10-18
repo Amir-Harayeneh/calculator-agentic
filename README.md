@@ -20,7 +20,7 @@ A simple calculator agent built with LangGraph and OpenAI, demonstrating tool-ca
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd calculator_agentic
 ```
 
