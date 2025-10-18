@@ -42,3 +42,4 @@ Thumbs.db
 
 # LangGraph
 .langgraph/
+.langgraph_api/
